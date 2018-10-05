@@ -1,4 +1,4 @@
-# [laravel-sitemap](http://roumen.it/projects/laravel-sitemap) package
+# [laravel-sitemap](https://github.com/ninosimeon/laravel-sitemap) package
 
 [![Latest Stable Version](https://poser.pugx.org/roumen/sitemap/version.png)](https://packagist.org/packages/roumen/sitemap) [![Total Downloads](https://poser.pugx.org/roumen/sitemap/d/total.png)](https://packagist.org/packages/roumen/sitemap) [![Build Status](https://travis-ci.org/RoumenDamianoff/laravel-sitemap.png?branch=master)](https://travis-ci.org/RoumenDamianoff/laravel-sitemap) [![License](https://poser.pugx.org/roumen/sitemap/license.png)](https://packagist.org/packages/roumen/sitemap)
 
@@ -7,14 +7,14 @@ A not so simple sitemap generator for Laravel 5.
 
 ## Notes
 
-Branch dev-master is for development and is UNSTABLE!
+This package is for Laravel 5.2, please use version v2.6.6
+
+The original version is from Roumen Damianoff.
 
 ## Installation
 
-Run the following command and provide the latest stable version (e.g v2.6.4) :
-
 ```bash
-composer require roumen/sitemap
+composer require nsimeon/sitemap
 ```
 
 or add the following to your `composer.json` file :
