@@ -1,5 +1,6 @@
 /nbproject
 /vendor
+/.idea
 composer.phar
 composer.lock
 .directory
